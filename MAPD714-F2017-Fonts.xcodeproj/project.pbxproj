@@ -12,6 +12,7 @@
 		6D50DBD41FCF851E0073775F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D50DBD31FCF851E0073775F /* Assets.xcassets */; };
 		6D50DBD71FCF851E0073775F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D50DBD51FCF851E0073775F /* LaunchScreen.storyboard */; };
 		6D50DBDF1FCF87280073775F /* FavoritesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBDE1FCF87280073775F /* FavoritesList.swift */; };
+		6D50DBE31FCF8DBA0073775F /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBE21FCF8DBA0073775F /* RootViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6D50DBD61FCF851E0073775F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D50DBD81FCF851E0073775F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6D50DBDE1FCF87280073775F /* FavoritesList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesList.swift; sourceTree = "<group>"; };
+		6D50DBE21FCF8DBA0073775F /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RootViewController.swift; path = "MAPD714-F2017-Fonts/RootViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		6D50DBC01FCF851E0073775F = {
 			isa = PBXGroup;
 			children = (
+				6D50DBE21FCF8DBA0073775F /* RootViewController.swift */,
 				6D50DBCB1FCF851E0073775F /* MAPD714-F2017-Fonts */,
 				6D50DBCA1FCF851E0073775F /* Products */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				6D50DBCD1FCF851E0073775F /* AppDelegate.swift in Sources */,
 				6D50DBDF1FCF87280073775F /* FavoritesList.swift in Sources */,
+				6D50DBE31FCF8DBA0073775F /* RootViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
