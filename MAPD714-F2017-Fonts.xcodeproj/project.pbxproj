@@ -14,6 +14,8 @@
 		6D50DBDF1FCF87280073775F /* FavoritesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBDE1FCF87280073775F /* FavoritesList.swift */; };
 		6D50DBE31FCF8DBA0073775F /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBE21FCF8DBA0073775F /* RootViewController.swift */; };
 		6D50DBE51FCF9C160073775F /* FontListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBE41FCF9C160073775F /* FontListViewController.swift */; };
+		6D50DBE71FCFA5290073775F /* FontSizesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBE61FCFA5290073775F /* FontSizesViewController.swift */; };
+		6D50DBE91FCFAAA30073775F /* FontInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D50DBE81FCFAAA30073775F /* FontInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		6D50DBDE1FCF87280073775F /* FavoritesList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesList.swift; sourceTree = "<group>"; };
 		6D50DBE21FCF8DBA0073775F /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RootViewController.swift; path = "MAPD714-F2017-Fonts/RootViewController.swift"; sourceTree = "<group>"; };
 		6D50DBE41FCF9C160073775F /* FontListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontListViewController.swift; sourceTree = "<group>"; };
+		6D50DBE61FCFA5290073775F /* FontSizesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontSizesViewController.swift; sourceTree = "<group>"; };
+		6D50DBE81FCFAAA30073775F /* FontInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				6D50DBD81FCF851E0073775F /* Info.plist */,
 				6D50DBDE1FCF87280073775F /* FavoritesList.swift */,
 				6D50DBE41FCF9C160073775F /* FontListViewController.swift */,
+				6D50DBE61FCFA5290073775F /* FontSizesViewController.swift */,
+				6D50DBE81FCFAAA30073775F /* FontInfoViewController.swift */,
 			);
 			path = "MAPD714-F2017-Fonts";
 			sourceTree = "<group>";
@@ -143,8 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D50DBE71FCFA5290073775F /* FontSizesViewController.swift in Sources */,
 				6D50DBCD1FCF851E0073775F /* AppDelegate.swift in Sources */,
 				6D50DBE51FCF9C160073775F /* FontListViewController.swift in Sources */,
+				6D50DBE91FCFAAA30073775F /* FontInfoViewController.swift in Sources */,
 				6D50DBDF1FCF87280073775F /* FavoritesList.swift in Sources */,
 				6D50DBE31FCF8DBA0073775F /* RootViewController.swift in Sources */,
 			);
